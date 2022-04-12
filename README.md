@@ -1,1 +1,1 @@
-# inventory
+# ansible tutorial
